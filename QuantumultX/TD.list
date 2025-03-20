@@ -7,5 +7,5 @@ host-suffix, trustdecision.com, TD
 host, home.tongdun.me, TD
 ip-cidr, 10.57.0.0/16, TD
 ip-cidr, 10.58.0.0/16, TD
-ip-cidr, 192.168.0.0/16, TD
 host-keyword, .tongdun., TD
+host, pwd.tongdun.me, direct
