@@ -4,6 +4,7 @@ host, pwd.tongdun.me, direct
 ip-cidr, 192.168.50.0/24, direct
 host-suffix, jddebug.com, direct
 host-suffix, enpass.io, direct
+host, voice.google.com, US
 host-suffix, perplexity.ai, SG
 host-suffix, gstatic.com, SG
 host-suffix, google.com, SG
