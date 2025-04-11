@@ -4,7 +4,6 @@ host-suffix, i4.cn, TD
 host-suffix, pdyzm.td, TD
 host-suffix, hzpd.td, TD
 host-suffix, trustdecision.com, TD
-host, m-tdoa.tongdun.me, direct
 host, home.tongdun.me, TD
 ip-cidr, 10.57.0.0/16, TD
 ip-cidr, 10.58.0.0/16, TD
