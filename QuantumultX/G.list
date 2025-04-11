@@ -6,7 +6,7 @@ host-suffix, jddebug.com, direct
 host-suffix, enpass.io, direct
 host, voice.google.com, US
 host-suffix, perplexity.ai, SG
-host-suffix, gstatic.com, SG
-host-suffix, google.com, SG
-host-suffix, googleapis.com, SG
+host-suffix, gstatic.com, proxy
+host-suffix, google.com, proxy
+host-suffix, googleapis.com, proxy
 host-suffix, riponsoftwarehouse.com, SG
