@@ -1,4 +1,6 @@
 # TD
+host, pwd.tongdun.me, direct
+host, fort.tongdun.cn, FORT
 host-suffix, te.td, TD
 host-suffix, i4.cn, TD
 host-suffix, pdyzm.td, TD
@@ -9,5 +11,3 @@ ip-cidr, 10.57.0.0/16, TD
 ip-cidr, 10.58.0.0/16, TD
 host-keyword, .tongdun., TD
 ip-cidr, 192.168.6.0/16, TD
-host, pwd.tongdun.me, direct
-host, fort.tongdun.cn, FORT
